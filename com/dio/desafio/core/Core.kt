@@ -5,8 +5,7 @@ import com.dio.desafio.domain.Usuario
 import com.dio.desafio.enums.Nivel
 
 
-public class Core {
-
+public class Core
     companion object {
         @JvmStatic
         fun execute() {
